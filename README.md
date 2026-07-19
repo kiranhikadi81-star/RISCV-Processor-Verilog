@@ -6,8 +6,8 @@ The processor is being developed module by module to strengthen my RTL design an
 
 ## Current Progress
 
-- ✅ Program Counter (PC)
-- ⏳ Instruction Memory
+- ✅ Program Counter
+- ✅ Instruction Memory
 - ⏳ Register File
 - ⏳ Immediate Generator
 - ⏳ ALU
